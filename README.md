@@ -1,4 +1,7 @@
 # High-precision 2D/3D Registration Based on Biplanar X-Ray and CT Images for Surgical Navigation
 
 # Introduction
-This paper proposes a new 3D self-driven generative adversarial network model base on X2CT-GAN that can reconstruct 3D CT from two orthogonal X-rays, with significant improvements in the enhancement of 3D image boundaries, depth texture information, and contours.
+This study describes a high-precision 2D/3D registration method based on biplanar X-ray images and computed tomography (CT) to reduce registration and navigation errors and realize the application in the surgical navigation system.
+
+# Open Source
+The paper has been submitted to Computer Methods and Programs in Biomedicine. Once the article is published, we will open the source code of the project.
